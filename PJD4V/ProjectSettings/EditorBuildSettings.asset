@@ -23,11 +23,5 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LEVEL PEDRO.unity
     guid: 5268c8c5182f4b745838c2499e84f5b0
-  - enabled: 1
-    path: Assets/Scenes/LEVEL PEDRO 2.unity
-    guid: 7b5516594e65d1740a7d07c312aaf8d8
-  - enabled: 1
-    path: Assets/Scenes/LEVEL PEDRO 3.unity
-    guid: d6b90f5cbdb93ba4f932a598a4dbd12f
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 53f0b03dc564347eb8aa6895194b7498, type: 2}
